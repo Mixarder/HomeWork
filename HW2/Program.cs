@@ -29,7 +29,8 @@ if (b > c)
     Console.WriteLine($"Максимальный из трех чисел это: {b}");
     return;
 }
-
+Console.WriteLine($"Максимальный из трех чисел это: {c}");
+return;
 
 
 
